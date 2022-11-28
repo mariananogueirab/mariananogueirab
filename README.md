@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mari
-- 🌱 I started to study programming in 2021 at Trybe
+- 👋 Hi, I’m Mariana, but you can call me Mari
+- 🌱 I started to study programming in May 2021 at Trybe
 - 👀 I’m interested in JavaScript, Java and back-end tools
 - 💞️ I’m currently working as a Quality Engineer with Java, SpringBoot, JUnit 5, TestNG, Cucumber and RESTAssured
 
